@@ -9,4 +9,6 @@ conda install numpy pandas
 
 ## Reinforcement Learning demos
 * Q-Learning
+    * Treasure Hunt
+    * Maze
 * Todo...
